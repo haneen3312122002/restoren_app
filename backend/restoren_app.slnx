@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="restoren_app.Tests/restoren_app.Tests.csproj" />
+  <Project Path="restoren_app/restoren_app.csproj" />
+</Solution>
